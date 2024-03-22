@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Polline Oyella
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning software development
+- 💞️ I’m looking to collaborate on real life projects
